@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He,His,Him
 - ⚡ Fun fact: I'm an ECE student
 
-[![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=VenkatVuddagiri)](https://github.com/anuraghazra/github-readme-stats)
+[![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=VenkatVuddagiri&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
