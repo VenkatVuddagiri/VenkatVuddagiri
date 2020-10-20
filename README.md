@@ -17,8 +17,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He,His,Him
 - ⚡ Fun fact: I'm an ECE student
 
-![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=VenkatVuddagiri&show_icons=true&theme=cobalt&custom_title=Venkat's-GitHub-Stats)
+<!--![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=VenkatVuddagiri&show_icons=true&theme=cobalt&custom_title=Venkat's-GitHub-Stats)-->
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VenkatVuddagiri&repo=100-days-of-code)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatVuddagiri&layout=compact&langs_count=7)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatVuddagiri&layout=compact&langs_count=7)-->
+
+<a align="center" href=#>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=VenkatVuddagiri&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatVuddagiri&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
+
+<a href="https://github.com/VenkatVuddagiri">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=VenkatVuddagiri&column=7&theme=onedark"/>
+    </p>
+</a>
