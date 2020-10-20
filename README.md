@@ -4,12 +4,12 @@
 **VenkatVuddagiri/VenkatVuddagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 <p align="center">
     <a href="#">
-      <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?         logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DVenkatVuddagiri&longCache=true">
+      <img src="https://img.shields.io/badge/dynamic/json?         logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DVenkatVuddagiri&longCache=true">
 </a>
 </p>
+-->
 - 🌱 I’m currently learning C++,JavaScript,Java
 - 👯 I’m looking to work on Open-source projects
 - 💬 Ask me about git,Python,C
