@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++,JavaScript,Java
 - 👯 I’m looking to work on Open-source projects
 - 💬 Ask me about git,Python,C
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/venkat-vuddagiri">LinkedIn</a>
+<!-- 📫 How to reach me: <a href="https://www.linkedin.com/in/venkat-vuddagiri">LinkedIn</a> -->
 - 😄 Pronouns: He,His,Him
 - ⚡ Fun fact: I'm an ECE student
+
+[![Linkedin](https://img.shields.io/badge/VenkatVuddagiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkat-vuddagiri/)](https://www.linkedin.com/in/venkat-vuddagiri)
+[![GitHub](https://img.shields.io/github/followers/VenkatVuddagiri?label=follow&style=social)](https://github.com/VenkatVuddagiri)
 
 <!--![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=VenkatVuddagiri&show_icons=true&theme=cobalt&custom_title=Venkat's-GitHub-Stats)-->
 
