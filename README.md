@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++,JavaScript,Java
 - 👯 I’m looking to work on Open-source projects
 - 💬 Ask me about git,Python,C
-<!-- 📫 How to reach me: <a href="https://www.linkedin.com/in/venkat-vuddagiri">LinkedIn</a> -->
 - 😄 Pronouns: He,His,Him
 - ⚡ Fun fact: I'm an ECE student
 
