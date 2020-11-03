@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Venkat
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=VenkatVuddagiri&label=Views&color=blue&style=plastic" alt="VenkatVuddagiri" width="100px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VenkatVuddagiri&label=ProfileViews&color=blue&style=plastic" alt="VenkatVuddagiri" width="200px" height="40px" /> </p>
 
 <!--
 **VenkatVuddagiri/VenkatVuddagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
