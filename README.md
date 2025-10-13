@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 -->
-- 🌱 I’m currently learning C++,JavaScript,Java
-- 👯 I’m looking to work on Open-source projects
-- 💬 Ask me about git,Python,C
+- 💬 Ask me about git,Python,C++,GoLang
 - 😄 Pronouns: He,His,Him
-- ⚡ Fun fact: I'm an ECE student
 
 [![Linkedin](https://img.shields.io/badge/VenkatVuddagiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkat-vuddagiri/)](https://www.linkedin.com/in/venkat-vuddagiri)
 [![GitHub](https://img.shields.io/github/followers/VenkatVuddagiri?label=follow&style=social)](https://github.com/VenkatVuddagiri)
