@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 -->
-- 💬 Ask me about git,Python,C++,GoLang
+- 💬 Ask me about C++
 - 😄 Pronouns: He,His,Him
 
 [![Linkedin](https://img.shields.io/badge/VenkatVuddagiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkat-vuddagiri/)](https://www.linkedin.com/in/venkat-vuddagiri)
